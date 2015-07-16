@@ -1,0 +1,13 @@
+
+
+	These are some particle systems made in Unity. They use 3 tga textures:
+
+	- 1 glow texture (res: 128)
+	- 1 flame texture with 49 sequences (7x7) (res: 2048)
+	- 1 smoke texture with 49 sequences (7x7) (res: 2048)
+
+	You can use these textures to create a next-gen flame thrower/fire/explosion in your game engine, be it Unity, UDK, UE4, CryEngine, Havok etc.
+
+
+	NOTE:
+	ResetExplosion.cs script activates explosion particles once every 2 seconds. It does nothing else.
